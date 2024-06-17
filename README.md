@@ -1,4 +1,4 @@
-I created this Netflix clone web project. It fetches the movie data from a third-party API. It also has trailer pop-ups functionality implemented into it. The clone has been built using React JS, React-hooks, Styled-component, Material-UI, TMDB API, and Firebase (hosting & Deploying). In this netflix clone I used redux and firebase Authentication for Sign up / Login.
+I created this Netflix clone web project. It fetches the movie data from a third-party API. The clone has been built using React JS, React-hooks, Styled-component, Material-UI, TMDB API, and Firebase (hosting & Deploying). In this netflix clone I used redux and firebase Authentication for Sign up / Login.
 <h1 style={{font size=3rem}}>Netflix Clone</h1>
 
 ## <a name="quick-start">🤸 Quick Start</a>
@@ -24,7 +24,4 @@ Check out the Netflix Clone :
 
 ![Screenshot (277)](https://user-images.githubusercontent.com/102823769/176611209-816602b1-d0b2-4b9b-992e-0c6255a2da01.png)
 
-<h3> #Trailer Pop-Up </h3>
-
-![Screenshot (279)](https://user-images.githubusercontent.com/102823769/176612203-f069fcb5-aaaf-4a21-8225-6527e2f86cdd.png)
 

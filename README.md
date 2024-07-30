@@ -1,4 +1,4 @@
-I created this Netflix clone web project. It fetches the movie data from a third-party API. The clone has been built using React JS, React-hooks, Styled-component, Material-UI, TMDB API, and Firebase (hosting & Deploying). In this netflix clone I used redux and firebase Authentication for Sign up / Login.
+I created this Netflix clone web project. It fetches the movie data from a third-party API. The clone has been built using React JS, React-hooks, Styled-component, Material-UI, TMDB API, and Netlify (hosting & Deploying). In this netflix clone I used redux and firebase Authentication for Sign up / Login.
 <h1 style={{font size=3rem}}>Netflix Clone</h1>
 
 ## <a name="quick-start">🤸 Quick Start</a>

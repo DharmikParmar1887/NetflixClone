@@ -1,4 +1,0 @@
-netflix-clone:
-
-cd netflix-api -->npm start
-cd netflix-ui  -->yarn start

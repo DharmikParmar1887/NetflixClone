@@ -1,9 +1,4 @@
 netflix-clone:
 
-
 cd netflix-api -->npm start
 cd netflix-ui  -->yarn start
-
-
-
-mongodb+srv://dharmikparmar1887:dharmik1887@db.br7gpgc.mongodb.net/
